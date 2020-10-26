@@ -6,7 +6,7 @@ A technique that replaces an artist who draws our pictures.This AI draws the pic
 Give a image as an input to the program, then it draws only persons present in the picture with a drawing effect
 
 ### OUTPUT
-[output](/sam.gif)
+![output](/sam.gif)
 ## Watch youtube video for the demo
 ![GitHub Logo](/drawai.png)
 https://youtu.be/ebnaUsVokcQ
